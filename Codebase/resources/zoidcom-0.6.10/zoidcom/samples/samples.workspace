@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE CodeBlocks_workspace_file>
+<CodeBlocks_workspace_file>
+	<Workspace title="Samples">
+		<Project filename="ex00_connect\ex00_connect.cbp"/>
+		<Project filename="ex01_lanbroadcast\ex01_lanbroadcast.cbp"/>
+		<Project filename="ex02_zoidlevel\ex02_zoidlevel.cbp"/>
+		<Project filename="ex03_object_replication\ex03_object_replication.cbp"/>
+		<Project filename="ex04_object_deletion\ex04_object_deletion.cbp"/>
+		<Project filename="ex05_object_events\ex05_object_events.cbp"/>
+		<Project filename="ex06_object_datasync\ex06_object_datasync.cbp"/>
+		<Project filename="ex07_movement\ex07_movement.cbp"/>
+		<Project filename="ex08_file_transfer\ex08_file_transfer.cbp" active="1"/>
+	</Workspace>
+</CodeBlocks_workspace_file>

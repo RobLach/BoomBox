@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GUILayout >
+    <Window Type="DefaultWindow" Name="Root" >
+        <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+        <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{1,0}}" />
+        <Window Type="TaharezLook/FrameWindow" Name="Root/" >
+            <Property Name="Text" Value="Store " />
+            <Property Name="TitlebarFont" Value="Commonwealth-10" />
+            <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+            <Property Name="TitlebarEnabled" Value="True" />
+            <Property Name="UnifiedAreaRect" Value="{{0.21922,0},{0.0784892,0},{0.712256,0},{0.944366,0}}" />
+            <Window Type="TaharezLook/MultiColumnList" Name="Root//" >
+                <Property Name="Text" >
+</Property>
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.0720339,0},{0.147408,0},{0.930791,0},{0.901215,0}}" />
+                <Window Type="TaharezLook/MultiColumnList" Name="Root///" >
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.75,0},{-0.000185324,0},{1,0},{0.997127,0}}" />
+                </Window>
+            </Window>
+            <Window Type="TaharezLook/StaticText" Name="Root//Price" >
+                <Property Name="Text" Value="Price" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.713277,0},{0.0880295,0},{0.932204,0},{0.129712,0}}" />
+            </Window>
+            <Window Type="TaharezLook/StaticText" Name="Root//Items" >
+                <Property Name="Text" Value="Items" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.0658192,0},{0.0865138,0},{0.692938,0},{0.129751,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root//Accept" >
+                <Property Name="Text" Value="Buy" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.562712,0},{0.913678,0},{0.763277,0},{0.978836,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root//Cancel" >
+                <Property Name="Text" Value="Cancel" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.79548,0},{0.911645,0},{0.932486,0},{0.975323,0}}" />
+            </Window>
+        </Window>
+    </Window>
+</GUILayout>

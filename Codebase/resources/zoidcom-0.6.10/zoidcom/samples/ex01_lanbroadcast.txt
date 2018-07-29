@@ -1,0 +1,7 @@
+ex01_lanbroadcast
+-----------------
+
+This sample shows broadcasting on a LAN to find listening servers.
+
+"Advanced Topics->LAN Broadcasting" explains how it works.
+

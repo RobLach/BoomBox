@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1139394082 e:\projects\project\zoidcom-0.6-branch\zoidcom\samples\ex08_file_transfer\server.cpp
+	<stdlib.h>
+	<stdio.h>
+	<zoidcom.h>
+	"filesender.h"
+
+1139148184 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom.h
+	"zoidcom_prereq.h"
+	"zoidcom_bitstream.h"
+	"zoidcom_address.h"
+	"zoidcom_control.h"
+	"zoidcom_node.h"
+	"zoidcom_node_interceptors.h"
+	"zoidcom_conngroup.h"
+	"zoidcom_replicator.h"
+	"zoidcom_replicator_basic.h"
+	"zoidcom_replicator_advanced.h"
+	"zoidcom_replicator_numeric.h"
+	"zoidcom_replicator_bool.h"
+	"zoidcom_replicator_memblock.h"
+	"zoidcom_replicator_string.h"
+	"zoidcom_replicator_interpolate.h"
+	"zoidcom_replicator_movement.h"
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_prereq.h
+	<cassert>
+	<cstddef>
+	<cstring>
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_bitstream.h
+	"zoidcom.h"
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_address.h
+	"zoidcom.h"
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_control.h
+	"zoidcom.h"
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_node.h
+	"zoidcom.h"
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_node_interceptors.h
+	"zoidcom.h"
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_conngroup.h
+	"zoidcom.h"
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator.h
+	"zoidcom.h"
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_basic.h
+	"zoidcom.h"
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_advanced.h
+	"zoidcom.h"
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_numeric.h
+	"zoidcom.h"
+	"zoidcom_replicator_value.h"
+	"zoidcom_typehelper.h"
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_value.h
+	"zoidcom.h"
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_typehelper.h
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_bool.h
+	"zoidcom.h"
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_memblock.h
+	"zoidcom.h"
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_string.h
+	"zoidcom.h"
+
+1138810900 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_interpolate.h
+	"zoidcom.h"
+	"zoidcom_replicator_value.h"
+
+1139245776 e:\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_movement.h
+	"zoidcom.h"
+	"zoidcom_typehelper.h"
+
+1139394090 e:\projects\project\zoidcom-0.6-branch\zoidcom\samples\ex08_file_transfer\filesender.h
+	<cstdio>
+	<zoidcom.h>
+
+1139394510 e:\projects\project\zoidcom-0.6-branch\zoidcom\samples\ex08_file_transfer\filesender.cpp
+	<cstdio>
+	<cstdlib>
+	<zoidcom.h>
+	"filesender.h"
+
+1139394072 e:\projects\project\zoidcom-0.6-branch\zoidcom\samples\ex08_file_transfer\client.cpp
+	<stdlib.h>
+	<stdio.h>
+	<zoidcom.h>
+	"filesender.h"
+

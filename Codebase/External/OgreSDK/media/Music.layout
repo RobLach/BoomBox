@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GUILayout >
+    <Window Type="DefaultWindow" Name="Root" >
+        <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+        <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{1,0}}" />
+        <Window Type="TaharezLook/FrameWindow" Name="Root/SongCreator" >
+            <Property Name="Text" Value="Music Creator" />
+            <Property Name="TitlebarFont" Value="Commonwealth-10" />
+            <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+            <Property Name="TitlebarEnabled" Value="True" />
+            <Property Name="UnifiedAreaRect" Value="{{0.0667131,0},{0.0323944,0},{0.505433,0},{0.573048,0}}" />
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/" >
+                <Property Name="Text" Value="1" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.0435233,0},{0.0897622,0},{0.166062,0},{0.189469,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/1" >
+                <Property Name="Text" Value="2" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.191969,0},{0.0901241,0},{0.314508,0},{0.189831,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/11" >
+                <Property Name="Text" Value="3" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.339378,0},{0.0918649,0},{0.461917,0},{0.191572,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/111" >
+                <Property Name="Text" Value="4" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.477461,0},{0.0922269,0},{0.6,0},{0.191934,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/2" >
+                <Property Name="Text" Value="1" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.0468912,0},{0.216977,0},{0.16943,0},{0.316684,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/12" >
+                <Property Name="Text" Value="2" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.191969,0},{0.0901241,0},{0.314508,0},{0.189831,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/1111" >
+                <Property Name="Text" Value="4" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.477461,0},{0.0922269,0},{0.600001,0},{0.191934,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/112" >
+                <Property Name="Text" Value="3" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.339378,0},{0.0918649,0},{0.461917,0},{0.191572,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/3" >
+                <Property Name="Text" Value="1" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.193264,0},{0.218718,0},{0.315803,0},{0.318425,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/13" >
+                <Property Name="Text" Value="2" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.191969,0},{0.0901241,0},{0.314508,0},{0.189831,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/1112" >
+                <Property Name="Text" Value="4" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.477461,0},{0.0922269,0},{0.600001,0},{0.191934,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/113" >
+                <Property Name="Text" Value="3" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.339378,0},{0.0918649,0},{0.461917,0},{0.191572,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/4" >
+                <Property Name="Text" Value="1" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.338601,0},{0.221837,0},{0.46114,0},{0.321544,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/14" >
+                <Property Name="Text" Value="2" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.191969,0},{0.0901241,0},{0.314508,0},{0.189831,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/1113" >
+                <Property Name="Text" Value="4" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.477461,0},{0.0922269,0},{0.600001,0},{0.191934,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/114" >
+                <Property Name="Text" Value="3" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.339378,0},{0.0918649,0},{0.461917,0},{0.191572,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/115" >
+                <Property Name="Text" Value="3" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.478497,0},{0.225933,0},{0.601036,0},{0.32564,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/1152" >
+                <Property Name="Text" Value="3" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.0466319,0},{0.333844,0},{0.169171,0},{0.433551,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/1153" >
+                <Property Name="Text" Value="3" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.190932,0},{0.334206,0},{0.313471,0},{0.433913,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/1154" >
+                <Property Name="Text" Value="3" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.341451,0},{0.334568,0},{0.46399,0},{0.434275,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/1155" >
+                <Property Name="Text" Value="3" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.48057,0},{0.341824,0},{0.603109,0},{0.441531,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/1156" >
+                <Property Name="Text" Value="3" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.0445594,0},{0.455251,0},{0.167098,0},{0.554958,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/1157" >
+                <Property Name="Text" Value="3" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.189896,0},{0.459749,0},{0.312435,0},{0.559456,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/1158" >
+                <Property Name="Text" Value="3" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.343523,0},{0.458732,0},{0.466062,0},{0.558439,0}}" />
+            </Window>
+            <Window Type="TaharezLook/Button" Name="Root/SongCreator/1159" >
+                <Property Name="Text" Value="3" />
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.482642,0},{0.463231,0},{0.605182,0},{0.562938,0}}" />
+            </Window>
+        </Window>
+    </Window>
+</GUILayout>

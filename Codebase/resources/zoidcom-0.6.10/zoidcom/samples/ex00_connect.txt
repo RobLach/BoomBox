@@ -1,0 +1,7 @@
+ex00_connect
+------------
+
+This sample shows how to implement client and server, how to let the client
+connect to the server and send some data around.
+
+The "Layer 2" chapters in the manual explain everything.

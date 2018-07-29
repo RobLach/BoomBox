@@ -1,0 +1,22 @@
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Tree]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Tree]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Tree]
+[ZCOM_SRV]: inserting node of class [ZC0M]
+[ZCOM_SRV]: incoming connection request from UDP: 127.0.0.1:3035 (control id: 0)
+[ZCOM_SRV]: new outgoing bandwidth for 1: 133 bpp / 15 pps
+[ZCOM_SRV/1]: received zoidlevel request for level: 1
+[ZCOM_SRV/1]: zoidrequest accepted by application
+[ZCOM_SRV/1] requesting sync for node: [7]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [1]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [2]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [3]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [4]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [5]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [6]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Tree]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Tree]

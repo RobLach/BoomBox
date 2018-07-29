@@ -1,0 +1,8 @@
+ex02_zoidlevel
+--------------
+
+Shows how to request and and enter Zoidmode after establishing a connection. Zoidmode
+is needed for object replication.
+
+Manual: "Layer 3: Object Replication->Entering Zoidmode"
+

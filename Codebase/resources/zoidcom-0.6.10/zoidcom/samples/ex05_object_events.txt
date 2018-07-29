@@ -1,0 +1,6 @@
+ex05_object_events
+------------------
+
+Sending custom data through game objects.
+
+Manual: "Layer 3: Object Communication"

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GUILayout >
+    <Window Type="DefaultWindow" Name="Root" >
+        <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+        <Property Name="UnifiedAreaRect" Value="{{0.00696379,0},{-0.0435339,0},{1.00696,0},{0.956466,0}}" />
+        <Window Type="WindowsLook/FrameWindow" Name="Root/MainWindow" >
+            <Property Name="Text" Value="Drag and Drop Demo" />
+            <Property Name="TitlebarFont" Value="Commonwealth-10" />
+            <Property Name="RollUpEnabled" Value="False" />
+            <Property Name="SizingEnabled" Value="False" />
+            <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+            <Property Name="TitlebarEnabled" Value="True" />
+            <Property Name="UnifiedAreaRect" Value="{{0.0376045,0},{0.228233,0},{0.949163,0},{1.16485,0}}" />
+            <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot1" >
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.05,0},{0.13,0},{0.116309,0},{0.219269,0}}" />
+                <Window Type="DragContainer" Name="DragContainer1" >
+                    <Property Name="DragAlpha" Value="0.5" />
+                    <Property Name="DragThreshold" Value="8" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.05,0},{0.05,0},{0.95,0},{0.95,0}}" />
+                    <Window Type="WindowsLook/StaticImage" Name="DragContainer1/Image" >
+                        <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                        <Property Name="UnifiedAreaRect" Value="{{0.012801,0},{-0.0170154,0},{1.0128,0},{0.982984,0}}" />
+                        <Property Name="MousePassThroughEnabled" Value="True" />
+                    </Window>
+                </Window>
+            </Window>
+            <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot2" >
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.143254,0},{0.135468,0},{0.210328,0},{0.216534,0}}" />
+            </Window>
+            <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot3" >
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.51,0},{0.13,0},{0.71,0},{0.33,0}}" />
+            </Window>
+            <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot4" >
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.74,0},{0.13,0},{0.94,0},{0.33,0}}" />
+            </Window>
+            <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot5" >
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.05,0},{0.36,0},{0.25,0},{0.56,0}}" />
+            </Window>
+            <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot6" >
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.28,0},{0.36,0},{0.48,0},{0.56,0}}" />
+                <Window Type="DragContainer" Name="DragContainer2" >
+                    <Property Name="DragAlpha" Value="0.5" />
+                    <Property Name="DragThreshold" Value="8" />
+                    <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                    <Property Name="UnifiedAreaRect" Value="{{0.05,0},{0.05,0},{0.95,0},{0.95,0}}" />
+                    <Window Type="WindowsLook/StaticImage" Name="DragContainer2/Image" >
+                        <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                        <Property Name="UnifiedAreaRect" Value="{{0,0},{0,0},{1,0},{1,0}}" />
+                        <Property Name="MousePassThroughEnabled" Value="True" />
+                    </Window>
+                </Window>
+            </Window>
+            <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot7" >
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.51,0},{0.36,0},{0.71,0},{0.56,0}}" />
+            </Window>
+            <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot8" >
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.74,0},{0.36,0},{0.94,0},{0.56,0}}" />
+            </Window>
+            <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot9" >
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.05,0},{0.59,0},{0.25,0},{0.79,0}}" />
+            </Window>
+            <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot10" >
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.28,0},{0.59,0},{0.48,0},{0.79,0}}" />
+            </Window>
+            <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot11" >
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.51,0},{0.59,0},{0.71,0},{0.79,0}}" />
+            </Window>
+            <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot12" >
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.74,0},{0.59,0},{0.94,0},{0.79,0}}" />
+            </Window>
+            <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot21" >
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.229923,0},{0.134887,0},{0.296997,0},{0.215953,0}}" />
+            </Window>
+            <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot24" >
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.314224,0},{0.135878,0},{0.381298,0},{0.216944,0}}" />
+            </Window>
+            <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot25" >
+                <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+                <Property Name="UnifiedAreaRect" Value="{{0.394782,0},{0.135297,0},{0.461856,0},{0.216363,0}}" />
+            </Window>
+        </Window>
+        <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot22" >
+            <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+            <Property Name="UnifiedAreaRect" Value="{{0.315677,0},{0.74123,0},{0.382751,0},{0.822296,0}}" />
+        </Window>
+        <Window Type="WindowsLook/Static" Name="Root/MainWindow/Slot23" >
+            <Property Name="UnifiedMaxSize" Value="{{1,0},{1,0}}" />
+            <Property Name="UnifiedAreaRect" Value="{{0.39214,0},{0.748977,0},{0.459214,0},{0.830043,0}}" />
+        </Window>
+    </Window>
+</GUILayout>

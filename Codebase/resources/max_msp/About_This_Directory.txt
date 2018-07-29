@@ -1,0 +1,17 @@
+This directory is the the temporary home for files associated withe audio for BOOMbox. 
+
+To use the sound you will need a Max runtime installed on your machine. The runtimes are available in the max_runtimes folder.
+
+Once you have installed the runtime on your machine, open the file named "working.mxf" to take advantage of the latest and greatest audio functionality.
+
+2/24:
+	-receives OSC messages and parses them into useful chunks
+
+3/1:
+	-added "mostly" complete skeleton of entire engine
+	-OSC messages now actually do things
+	-other avatars are created and registered upon receipt of first OSC message with their unique id attached (currently a periodic pulse of a saw wave of a static random frequency is used to signify an avatar)
+	-subsequent messages will:
+		- affect the pulse's placement in a stereo field
+		- the volume of the pulse is relative to other avatar's distance to "myavatar"
+	- added a tester patch for sending of test messages

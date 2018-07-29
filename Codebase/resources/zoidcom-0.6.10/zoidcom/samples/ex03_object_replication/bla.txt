@@ -1,0 +1,8175 @@
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [Rock]
+[ZCOM_SRV]: inserting node of class [ZC0M]
+[ZCOM_SRV]: incoming connection request from UDP: 127.0.0.1:1669 (control id: 0)
+[ZCOM_SRV]: new outgoing bandwidth for 1: 133 bpp / 15 pps
+[ZCOM_SRV/1]: received zoidlevel request for level: 1
+[ZCOM_SRV/1]: zoidrequest accepted by application
+[ZCOM_SRV/1] requesting sync for node: [94]
+[ZCOM_SRV/1]: peer requested new connection quality: 200 bpp/10 pps
+filling =========
+node: 94 prio 196000
+sending node: 94
+================================
+================================
+filling =========
+node: 94 prio 98000
+sending node: 94
+================================
+
+******* starting deppush at node 1
+using stored boost 0
+propagating 2
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [1]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [2]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [3]
+
+******* starting deppush at node 4
+using stored boost 0
+propagating 2
+ incoming deppush for 1 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [4]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [5]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [6]
+
+******* starting deppush at node 7
+using stored boost 0
+propagating 2
+ incoming deppush for 4 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 1 with dependerprio 4
+  increasing boost to 4
+  propagating 6
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [7]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [8]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [9]
+
+******* starting deppush at node 10
+using stored boost 0
+propagating 2
+ incoming deppush for 7 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 4 with dependerprio 4
+  increasing boost to 4
+  propagating 6
+   incoming deppush for 1 with dependerprio 6
+   increasing boost to 6
+   propagating 8
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [10]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [11]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [12]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [13]
+
+******* starting deppush at node 14
+using stored boost 0
+propagating 2
+ incoming deppush for 10 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 7 with dependerprio 4
+  increasing boost to 4
+  propagating 6
+   incoming deppush for 4 with dependerprio 6
+   increasing boost to 6
+   propagating 8
+    incoming deppush for 1 with dependerprio 8
+    increasing boost to 8
+    propagating 10
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [14]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [15]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [16]
+
+******* starting deppush at node 17
+using stored boost 0
+propagating 2
+ incoming deppush for 14 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 10 with dependerprio 4
+  increasing boost to 4
+  propagating 6
+   incoming deppush for 7 with dependerprio 6
+   increasing boost to 6
+   propagating 8
+    incoming deppush for 4 with dependerprio 8
+    increasing boost to 8
+    propagating 10
+     incoming deppush for 1 with dependerprio 10
+     increasing boost to 10
+     propagating 12
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [17]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [18]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [19]
+
+******* starting deppush at node 20
+using stored boost 0
+propagating 2
+ incoming deppush for 17 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 14 with dependerprio 4
+  increasing boost to 4
+  propagating 6
+   incoming deppush for 10 with dependerprio 6
+   increasing boost to 6
+   propagating 8
+    incoming deppush for 7 with dependerprio 8
+    increasing boost to 8
+    propagating 10
+     incoming deppush for 4 with dependerprio 10
+     increasing boost to 10
+     propagating 12
+      incoming deppush for 1 with dependerprio 12
+      increasing boost to 12
+      propagating 14
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [20]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [21]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [22]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [23]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [24]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [25]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [26]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [27]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [28]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [29]
+
+******* starting deppush at node 30
+using stored boost 0
+propagating 2
+ incoming deppush for 10 with dependerprio 2
+ propagating 4
+  incoming deppush for 7 with dependerprio 4
+  propagating 6
+   incoming deppush for 4 with dependerprio 6
+   propagating 8
+    incoming deppush for 1 with dependerprio 8
+    propagating 10
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [30]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [31]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [32]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [33]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [34]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [35]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [36]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [37]
+
+******* starting deppush at node 38
+using stored boost 0
+propagating 2
+ incoming deppush for 4 with dependerprio 2
+ propagating 4
+  incoming deppush for 1 with dependerprio 4
+  propagating 6
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [38]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [39]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [40]
+
+******* starting deppush at node 41
+using stored boost 0
+propagating 2
+ incoming deppush for 38 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 4 with dependerprio 4
+  propagating 6
+   incoming deppush for 1 with dependerprio 6
+   propagating 8
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [41]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [42]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [43]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [44]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [45]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [46]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [47]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [48]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [49]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [50]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [51]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [52]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [53]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [54]
+
+******* starting deppush at node 55
+using stored boost 0
+propagating 2
+ incoming deppush for 10 with dependerprio 2
+ propagating 4
+  incoming deppush for 7 with dependerprio 4
+  propagating 6
+   incoming deppush for 4 with dependerprio 6
+   propagating 8
+    incoming deppush for 1 with dependerprio 8
+    propagating 10
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [55]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [56]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [57]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [58]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [59]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [60]
+
+******* starting deppush at node 61
+using stored boost 0
+propagating 2
+ incoming deppush for 55 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 10 with dependerprio 4
+  propagating 6
+   incoming deppush for 7 with dependerprio 6
+   propagating 8
+    incoming deppush for 4 with dependerprio 8
+    propagating 10
+     incoming deppush for 1 with dependerprio 10
+     propagating 12
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [61]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [62]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [63]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [64]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [65]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [66]
+
+******* starting deppush at node 67
+using stored boost 0
+propagating 2
+ incoming deppush for 55 with dependerprio 2
+ propagating 4
+  incoming deppush for 10 with dependerprio 4
+  propagating 6
+   incoming deppush for 7 with dependerprio 6
+   propagating 8
+    incoming deppush for 4 with dependerprio 8
+    propagating 10
+     incoming deppush for 1 with dependerprio 10
+     propagating 12
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [67]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [68]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [69]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [70]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [71]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [72]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [73]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [74]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [75]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [76]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [77]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [78]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [79]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [80]
+
+******* starting deppush at node 81
+using stored boost 0
+propagating 2
+ incoming deppush for 10 with dependerprio 2
+ propagating 4
+  incoming deppush for 7 with dependerprio 4
+  propagating 6
+   incoming deppush for 4 with dependerprio 6
+   propagating 8
+    incoming deppush for 1 with dependerprio 8
+    propagating 10
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [81]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [82]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [83]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [84]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [85]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [86]
+
+******* starting deppush at node 87
+using stored boost 0
+propagating 2
+ incoming deppush for 81 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 10 with dependerprio 4
+  propagating 6
+   incoming deppush for 7 with dependerprio 6
+   propagating 8
+    incoming deppush for 4 with dependerprio 8
+    propagating 10
+     incoming deppush for 1 with dependerprio 10
+     propagating 12
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [87]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [88]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [89]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [90]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [91]
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [92]
+
+******* starting deppush at node 93
+using stored boost 0
+propagating 2
+ incoming deppush for 7 with dependerprio 2
+ propagating 4
+  incoming deppush for 4 with dependerprio 4
+  propagating 6
+   incoming deppush for 1 with dependerprio 6
+   propagating 8
+[ZCOM_SRV/1]: All mustsync nodes in sync: activating normal node: [93]
+================================
+filling =========
+node: 1 prio 2535
+node: 2 prio 194
+node: 3 prio 194
+node: 4 prio 2123
+node: 5 prio 191
+node: 6 prio 191
+node: 7 prio 1719
+node: 8 prio 188
+node: 9 prio 188
+node: 10 prio 1309
+node: 11 prio 183
+node: 12 prio 183
+node: 13 prio 183
+node: 14 prio 910
+node: 15 prio 177
+node: 16 prio 177
+node: 17 prio 531
+node: 18 prio 171
+node: 19 prio 171
+node: 20 prio 171
+node: 21 prio 164
+node: 22 prio 164
+node: 23 prio 163
+node: 24 prio 163
+node: 25 prio 163
+node: 26 prio 162
+node: 27 prio 162
+node: 28 prio 162
+node: 29 prio 161
+node: 30 prio 161
+node: 31 prio 157
+node: 32 prio 157
+node: 33 prio 157
+node: 34 prio 156
+node: 35 prio 156
+node: 36 prio 156
+node: 37 prio 155
+node: 38 prio 465
+node: 39 prio 153
+node: 40 prio 152
+node: 41 prio 152
+node: 42 prio 149
+node: 43 prio 148
+node: 44 prio 148
+node: 45 prio 148
+node: 46 prio 147
+node: 47 prio 147
+node: 48 prio 147
+node: 49 prio 146
+node: 50 prio 146
+node: 51 prio 146
+node: 52 prio 145
+node: 53 prio 145
+node: 54 prio 145
+node: 55 prio 432
+node: 56 prio 141
+node: 57 prio 140
+node: 58 prio 140
+node: 59 prio 140
+node: 60 prio 139
+node: 61 prio 139
+node: 62 prio 135
+node: 63 prio 134
+node: 64 prio 134
+node: 65 prio 134
+node: 66 prio 133
+node: 67 prio 133
+node: 68 prio 129
+node: 69 prio 129
+node: 70 prio 128
+node: 71 prio 128
+node: 72 prio 128
+node: 73 prio 127
+node: 74 prio 127
+node: 75 prio 127
+node: 76 prio 126
+node: 77 prio 126
+node: 78 prio 126
+node: 79 prio 125
+node: 80 prio 125
+node: 81 prio 375
+node: 82 prio 121
+node: 83 prio 121
+node: 84 prio 120
+node: 85 prio 120
+node: 86 prio 120
+node: 87 prio 119
+node: 88 prio 115
+node: 89 prio 115
+node: 90 prio 114
+node: 91 prio 114
+node: 92 prio 114
+node: 93 prio 113
+node: 94 prio 0
+sending node: 1
+sending node: 4
+sending node: 7
+sending node: 10
+sending node: 14
+sending node: 17
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 231
+node: 3 prio 231
+node: 4 prio 0
+node: 5 prio 228
+node: 6 prio 228
+node: 7 prio 0
+node: 8 prio 225
+node: 9 prio 225
+node: 10 prio 0
+node: 11 prio 220
+node: 12 prio 220
+node: 13 prio 220
+node: 14 prio 0
+node: 15 prio 214
+node: 16 prio 214
+node: 17 prio 0
+node: 18 prio 208
+node: 19 prio 208
+node: 20 prio 208
+node: 21 prio 201
+node: 22 prio 201
+node: 23 prio 200
+node: 24 prio 200
+node: 25 prio 200
+node: 26 prio 199
+node: 27 prio 199
+node: 28 prio 199
+node: 29 prio 198
+node: 30 prio 198
+node: 31 prio 194
+node: 32 prio 194
+node: 33 prio 194
+node: 34 prio 193
+node: 35 prio 193
+node: 36 prio 193
+node: 37 prio 192
+node: 38 prio 576
+node: 39 prio 190
+node: 40 prio 189
+node: 41 prio 189
+node: 42 prio 186
+node: 43 prio 185
+node: 44 prio 185
+node: 45 prio 185
+node: 46 prio 184
+node: 47 prio 184
+node: 48 prio 184
+node: 49 prio 183
+node: 50 prio 183
+node: 51 prio 183
+node: 52 prio 182
+node: 53 prio 182
+node: 54 prio 182
+node: 55 prio 543
+node: 56 prio 178
+node: 57 prio 177
+node: 58 prio 177
+node: 59 prio 177
+node: 60 prio 176
+node: 61 prio 176
+node: 62 prio 172
+node: 63 prio 171
+node: 64 prio 171
+node: 65 prio 171
+node: 66 prio 170
+node: 67 prio 170
+node: 68 prio 166
+node: 69 prio 166
+node: 70 prio 165
+node: 71 prio 165
+node: 72 prio 165
+node: 73 prio 164
+node: 74 prio 164
+node: 75 prio 164
+node: 76 prio 163
+node: 77 prio 163
+node: 78 prio 163
+node: 79 prio 162
+node: 80 prio 162
+node: 81 prio 486
+node: 82 prio 158
+node: 83 prio 158
+node: 84 prio 157
+node: 85 prio 157
+node: 86 prio 157
+node: 87 prio 156
+node: 88 prio 152
+node: 89 prio 152
+node: 90 prio 151
+node: 91 prio 151
+node: 92 prio 151
+node: 93 prio 150
+node: 94 prio 0
+sending node: 38
+sending node: 55
+sending node: 81
+sending node: 3
+sending node: 2
+sending node: 5
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 329
+node: 7 prio 0
+node: 8 prio 326
+node: 9 prio 326
+node: 10 prio 0
+node: 11 prio 321
+node: 12 prio 321
+node: 13 prio 321
+node: 14 prio 0
+node: 15 prio 315
+node: 16 prio 315
+node: 17 prio 0
+node: 18 prio 309
+node: 19 prio 309
+node: 20 prio 309
+node: 21 prio 302
+node: 22 prio 302
+node: 23 prio 301
+node: 24 prio 301
+node: 25 prio 301
+node: 26 prio 300
+node: 27 prio 300
+node: 28 prio 300
+node: 29 prio 299
+node: 30 prio 299
+node: 31 prio 295
+node: 32 prio 295
+node: 33 prio 295
+node: 34 prio 294
+node: 35 prio 294
+node: 36 prio 294
+node: 37 prio 293
+node: 38 prio 0
+node: 39 prio 291
+node: 40 prio 290
+node: 41 prio 290
+node: 42 prio 287
+node: 43 prio 286
+node: 44 prio 286
+node: 45 prio 286
+node: 46 prio 285
+node: 47 prio 285
+node: 48 prio 285
+node: 49 prio 284
+node: 50 prio 284
+node: 51 prio 284
+node: 52 prio 283
+node: 53 prio 283
+node: 54 prio 283
+node: 55 prio 0
+node: 56 prio 279
+node: 57 prio 278
+node: 58 prio 278
+node: 59 prio 278
+node: 60 prio 277
+node: 61 prio 277
+node: 62 prio 273
+node: 63 prio 272
+node: 64 prio 272
+node: 65 prio 272
+node: 66 prio 271
+node: 67 prio 271
+node: 68 prio 267
+node: 69 prio 267
+node: 70 prio 266
+node: 71 prio 266
+node: 72 prio 266
+node: 73 prio 265
+node: 74 prio 265
+node: 75 prio 265
+node: 76 prio 264
+node: 77 prio 264
+node: 78 prio 264
+node: 79 prio 263
+node: 80 prio 263
+node: 81 prio 0
+node: 82 prio 259
+node: 83 prio 259
+node: 84 prio 258
+node: 85 prio 258
+node: 86 prio 258
+node: 87 prio 257
+node: 88 prio 253
+node: 89 prio 253
+node: 90 prio 252
+node: 91 prio 252
+node: 92 prio 252
+node: 93 prio 251
+node: 94 prio 0
+sending node: 6
+sending node: 9
+sending node: 8
+sending node: 12
+sending node: 13
+sending node: 11
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 417
+node: 16 prio 417
+node: 17 prio 0
+node: 18 prio 411
+node: 19 prio 411
+node: 20 prio 411
+node: 21 prio 404
+node: 22 prio 404
+node: 23 prio 403
+node: 24 prio 403
+node: 25 prio 403
+node: 26 prio 402
+node: 27 prio 402
+node: 28 prio 402
+node: 29 prio 401
+node: 30 prio 401
+node: 31 prio 397
+node: 32 prio 397
+node: 33 prio 397
+node: 34 prio 396
+node: 35 prio 396
+node: 36 prio 396
+node: 37 prio 395
+node: 38 prio 0
+node: 39 prio 393
+node: 40 prio 392
+node: 41 prio 392
+node: 42 prio 389
+node: 43 prio 388
+node: 44 prio 388
+node: 45 prio 388
+node: 46 prio 387
+node: 47 prio 387
+node: 48 prio 387
+node: 49 prio 386
+node: 50 prio 386
+node: 51 prio 386
+node: 52 prio 385
+node: 53 prio 385
+node: 54 prio 385
+node: 55 prio 0
+node: 56 prio 381
+node: 57 prio 380
+node: 58 prio 380
+node: 59 prio 380
+node: 60 prio 379
+node: 61 prio 379
+node: 62 prio 375
+node: 63 prio 374
+node: 64 prio 374
+node: 65 prio 374
+node: 66 prio 373
+node: 67 prio 373
+node: 68 prio 369
+node: 69 prio 369
+node: 70 prio 368
+node: 71 prio 368
+node: 72 prio 368
+node: 73 prio 367
+node: 74 prio 367
+node: 75 prio 367
+node: 76 prio 366
+node: 77 prio 366
+node: 78 prio 366
+node: 79 prio 365
+node: 80 prio 365
+node: 81 prio 0
+node: 82 prio 361
+node: 83 prio 361
+node: 84 prio 360
+node: 85 prio 360
+node: 86 prio 360
+node: 87 prio 359
+node: 88 prio 355
+node: 89 prio 355
+node: 90 prio 354
+node: 91 prio 354
+node: 92 prio 354
+node: 93 prio 353
+node: 94 prio 0
+sending node: 16
+sending node: 15
+sending node: 19
+sending node: 20
+sending node: 18
+sending node: 22
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 504
+node: 22 prio 0
+node: 23 prio 503
+node: 24 prio 503
+node: 25 prio 503
+node: 26 prio 502
+node: 27 prio 502
+node: 28 prio 502
+node: 29 prio 501
+node: 30 prio 501
+node: 31 prio 497
+node: 32 prio 497
+node: 33 prio 497
+node: 34 prio 496
+node: 35 prio 496
+node: 36 prio 496
+node: 37 prio 495
+node: 38 prio 0
+node: 39 prio 493
+node: 40 prio 492
+node: 41 prio 492
+node: 42 prio 489
+node: 43 prio 488
+node: 44 prio 488
+node: 45 prio 488
+node: 46 prio 487
+node: 47 prio 487
+node: 48 prio 487
+node: 49 prio 486
+node: 50 prio 486
+node: 51 prio 486
+node: 52 prio 485
+node: 53 prio 485
+node: 54 prio 485
+node: 55 prio 0
+node: 56 prio 481
+node: 57 prio 480
+node: 58 prio 480
+node: 59 prio 480
+node: 60 prio 479
+node: 61 prio 479
+node: 62 prio 475
+node: 63 prio 474
+node: 64 prio 474
+node: 65 prio 474
+node: 66 prio 473
+node: 67 prio 473
+node: 68 prio 469
+node: 69 prio 469
+node: 70 prio 468
+node: 71 prio 468
+node: 72 prio 468
+node: 73 prio 467
+node: 74 prio 467
+node: 75 prio 467
+node: 76 prio 466
+node: 77 prio 466
+node: 78 prio 466
+node: 79 prio 465
+node: 80 prio 465
+node: 81 prio 0
+node: 82 prio 461
+node: 83 prio 461
+node: 84 prio 460
+node: 85 prio 460
+node: 86 prio 460
+node: 87 prio 459
+node: 88 prio 455
+node: 89 prio 455
+node: 90 prio 454
+node: 91 prio 454
+node: 92 prio 454
+node: 93 prio 453
+node: 94 prio 0
+sending node: 21
+sending node: 24
+sending node: 25
+sending node: 23
+sending node: 27
+sending node: 28
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 604
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 603
+node: 30 prio 603
+node: 31 prio 599
+node: 32 prio 599
+node: 33 prio 599
+node: 34 prio 598
+node: 35 prio 598
+node: 36 prio 598
+node: 37 prio 597
+node: 38 prio 0
+node: 39 prio 595
+node: 40 prio 594
+node: 41 prio 594
+node: 42 prio 591
+node: 43 prio 590
+node: 44 prio 590
+node: 45 prio 590
+node: 46 prio 589
+node: 47 prio 589
+node: 48 prio 589
+node: 49 prio 588
+node: 50 prio 588
+node: 51 prio 588
+node: 52 prio 587
+node: 53 prio 587
+node: 54 prio 587
+node: 55 prio 0
+node: 56 prio 583
+node: 57 prio 582
+node: 58 prio 582
+node: 59 prio 582
+node: 60 prio 581
+node: 61 prio 581
+node: 62 prio 577
+node: 63 prio 576
+node: 64 prio 576
+node: 65 prio 576
+node: 66 prio 575
+node: 67 prio 575
+node: 68 prio 571
+node: 69 prio 571
+node: 70 prio 570
+node: 71 prio 570
+node: 72 prio 570
+node: 73 prio 569
+node: 74 prio 569
+node: 75 prio 569
+node: 76 prio 568
+node: 77 prio 568
+node: 78 prio 568
+node: 79 prio 567
+node: 80 prio 567
+node: 81 prio 0
+node: 82 prio 563
+node: 83 prio 563
+node: 84 prio 562
+node: 85 prio 562
+node: 86 prio 562
+node: 87 prio 561
+node: 88 prio 557
+node: 89 prio 557
+node: 90 prio 556
+node: 91 prio 556
+node: 92 prio 556
+node: 93 prio 555
+node: 94 prio 0
+sending node: 26
+sending node: 30
+sending node: 29
+sending node: 32
+sending node: 33
+sending node: 31
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 699
+node: 35 prio 699
+node: 36 prio 699
+node: 37 prio 698
+node: 38 prio 0
+node: 39 prio 696
+node: 40 prio 695
+node: 41 prio 695
+node: 42 prio 692
+node: 43 prio 691
+node: 44 prio 691
+node: 45 prio 691
+node: 46 prio 690
+node: 47 prio 690
+node: 48 prio 690
+node: 49 prio 689
+node: 50 prio 689
+node: 51 prio 689
+node: 52 prio 688
+node: 53 prio 688
+node: 54 prio 688
+node: 55 prio 0
+node: 56 prio 684
+node: 57 prio 683
+node: 58 prio 683
+node: 59 prio 683
+node: 60 prio 682
+node: 61 prio 682
+node: 62 prio 678
+node: 63 prio 677
+node: 64 prio 677
+node: 65 prio 677
+node: 66 prio 676
+node: 67 prio 676
+node: 68 prio 672
+node: 69 prio 672
+node: 70 prio 671
+node: 71 prio 671
+node: 72 prio 671
+node: 73 prio 670
+node: 74 prio 670
+node: 75 prio 670
+node: 76 prio 669
+node: 77 prio 669
+node: 78 prio 669
+node: 79 prio 668
+node: 80 prio 668
+node: 81 prio 0
+node: 82 prio 664
+node: 83 prio 664
+node: 84 prio 663
+node: 85 prio 663
+node: 86 prio 663
+node: 87 prio 662
+node: 88 prio 658
+node: 89 prio 658
+node: 90 prio 657
+node: 91 prio 657
+node: 92 prio 657
+node: 93 prio 656
+node: 94 prio 0
+sending node: 35
+sending node: 36
+sending node: 34
+sending node: 37
+sending node: 39
+sending node: 40
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 785
+node: 42 prio 782
+node: 43 prio 781
+node: 44 prio 781
+node: 45 prio 781
+node: 46 prio 780
+node: 47 prio 780
+node: 48 prio 780
+node: 49 prio 779
+node: 50 prio 779
+node: 51 prio 779
+node: 52 prio 778
+node: 53 prio 778
+node: 54 prio 778
+node: 55 prio 0
+node: 56 prio 774
+node: 57 prio 773
+node: 58 prio 773
+node: 59 prio 773
+node: 60 prio 772
+node: 61 prio 772
+node: 62 prio 768
+node: 63 prio 767
+node: 64 prio 767
+node: 65 prio 767
+node: 66 prio 766
+node: 67 prio 766
+node: 68 prio 762
+node: 69 prio 762
+node: 70 prio 761
+node: 71 prio 761
+node: 72 prio 761
+node: 73 prio 760
+node: 74 prio 760
+node: 75 prio 760
+node: 76 prio 759
+node: 77 prio 759
+node: 78 prio 759
+node: 79 prio 758
+node: 80 prio 758
+node: 81 prio 0
+node: 82 prio 754
+node: 83 prio 754
+node: 84 prio 753
+node: 85 prio 753
+node: 86 prio 753
+node: 87 prio 752
+node: 88 prio 748
+node: 89 prio 748
+node: 90 prio 747
+node: 91 prio 747
+node: 92 prio 747
+node: 93 prio 746
+node: 94 prio 0
+sending node: 41
+sending node: 42
+sending node: 44
+sending node: 45
+sending node: 43
+sending node: 46
+[ZCOM_SRV]: new outgoing bandwidth for 1: 200 bpp / 10 pps
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 881
+node: 48 prio 881
+node: 49 prio 880
+node: 50 prio 880
+node: 51 prio 880
+node: 52 prio 879
+node: 53 prio 879
+node: 54 prio 879
+node: 55 prio 0
+node: 56 prio 875
+node: 57 prio 874
+node: 58 prio 874
+node: 59 prio 874
+node: 60 prio 873
+node: 61 prio 873
+node: 62 prio 869
+node: 63 prio 868
+node: 64 prio 868
+node: 65 prio 868
+node: 66 prio 867
+node: 67 prio 867
+node: 68 prio 863
+node: 69 prio 863
+node: 70 prio 862
+node: 71 prio 862
+node: 72 prio 862
+node: 73 prio 861
+node: 74 prio 861
+node: 75 prio 861
+node: 76 prio 860
+node: 77 prio 860
+node: 78 prio 860
+node: 79 prio 859
+node: 80 prio 859
+node: 81 prio 0
+node: 82 prio 855
+node: 83 prio 855
+node: 84 prio 854
+node: 85 prio 854
+node: 86 prio 854
+node: 87 prio 853
+node: 88 prio 849
+node: 89 prio 849
+node: 90 prio 848
+node: 91 prio 848
+node: 92 prio 848
+node: 93 prio 847
+node: 94 prio 0
+sending node: 48
+sending node: 47
+sending node: 49
+sending node: 50
+sending node: 51
+sending node: 53
+sending node: 54
+sending node: 52
+sending node: 56
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 976
+node: 58 prio 976
+node: 59 prio 976
+node: 60 prio 975
+node: 61 prio 975
+node: 62 prio 971
+node: 63 prio 970
+node: 64 prio 970
+node: 65 prio 970
+node: 66 prio 969
+node: 67 prio 969
+node: 68 prio 965
+node: 69 prio 965
+node: 70 prio 964
+node: 71 prio 964
+node: 72 prio 964
+node: 73 prio 963
+node: 74 prio 963
+node: 75 prio 963
+node: 76 prio 962
+node: 77 prio 962
+node: 78 prio 962
+node: 79 prio 961
+node: 80 prio 961
+node: 81 prio 0
+node: 82 prio 957
+node: 83 prio 957
+node: 84 prio 956
+node: 85 prio 956
+node: 86 prio 956
+node: 87 prio 955
+node: 88 prio 951
+node: 89 prio 951
+node: 90 prio 950
+node: 91 prio 950
+node: 92 prio 950
+node: 93 prio 949
+node: 94 prio 0
+sending node: 58
+sending node: 59
+sending node: 57
+sending node: 61
+sending node: 60
+sending node: 62
+sending node: 63
+sending node: 64
+sending node: 65
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 1071
+node: 67 prio 1071
+node: 68 prio 1067
+node: 69 prio 1067
+node: 70 prio 1066
+node: 71 prio 1066
+node: 72 prio 1066
+node: 73 prio 1065
+node: 74 prio 1065
+node: 75 prio 1065
+node: 76 prio 1064
+node: 77 prio 1064
+node: 78 prio 1064
+node: 79 prio 1063
+node: 80 prio 1063
+node: 81 prio 0
+node: 82 prio 1059
+node: 83 prio 1059
+node: 84 prio 1058
+node: 85 prio 1058
+node: 86 prio 1058
+node: 87 prio 1057
+node: 88 prio 1053
+node: 89 prio 1053
+node: 90 prio 1052
+node: 91 prio 1052
+node: 92 prio 1052
+node: 93 prio 1051
+node: 94 prio 0
+sending node: 67
+sending node: 66
+sending node: 69
+sending node: 68
+sending node: 70
+sending node: 71
+sending node: 72
+sending node: 74
+sending node: 75
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 1166
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 1165
+node: 77 prio 1165
+node: 78 prio 1165
+node: 79 prio 1164
+node: 80 prio 1164
+node: 81 prio 0
+node: 82 prio 1160
+node: 83 prio 1160
+node: 84 prio 1159
+node: 85 prio 1159
+node: 86 prio 1159
+node: 87 prio 1158
+node: 88 prio 1154
+node: 89 prio 1154
+node: 90 prio 1153
+node: 91 prio 1153
+node: 92 prio 1153
+node: 93 prio 1152
+node: 94 prio 0
+sending node: 73
+sending node: 77
+sending node: 78
+sending node: 76
+sending node: 80
+sending node: 79
+sending node: 83
+sending node: 82
+sending node: 84
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 1261
+node: 86 prio 1261
+node: 87 prio 1260
+node: 88 prio 1256
+node: 89 prio 1256
+node: 90 prio 1255
+node: 91 prio 1255
+node: 92 prio 1255
+node: 93 prio 1254
+node: 94 prio 0
+sending node: 86
+sending node: 85
+sending node: 87
+sending node: 88
+sending node: 89
+sending node: 91
+sending node: 92
+sending node: 90
+sending node: 93
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+[ZCOM_SRV]: inserting node of class [ZC0M]
+[ZCOM_SRV]: incoming connection request from UDP: 127.0.0.1:1670 (control id: 0)
+[ZCOM_SRV]: new outgoing bandwidth for 1: 200 bpp / 10 pps
+[ZCOM_SRV]: new outgoing bandwidth for 2: 133 bpp / 15 pps
+[ZCOM_SRV/2]: received zoidlevel request for level: 1
+[ZCOM_SRV/2]: zoidrequest accepted by application
+[ZCOM_SRV/2] requesting sync for node: [95]
+[ZCOM_SRV/2]: peer requested new connection quality: 200 bpp/10 pps
+filling =========
+node: 95 prio 197000
+sending node: 95
+================================
+================================
+filling =========
+node: 95 prio 97000
+sending node: 95
+================================
+
+******* starting deppush at node 1
+using stored boost 0
+propagating 2
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [1]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [2]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [3]
+
+******* starting deppush at node 4
+using stored boost 0
+propagating 2
+ incoming deppush for 1 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [4]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [5]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [6]
+
+******* starting deppush at node 7
+using stored boost 0
+propagating 2
+ incoming deppush for 4 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 1 with dependerprio 4
+  increasing boost to 4
+  propagating 6
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [7]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [8]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [9]
+
+******* starting deppush at node 10
+using stored boost 0
+propagating 2
+ incoming deppush for 7 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 4 with dependerprio 4
+  increasing boost to 4
+  propagating 6
+   incoming deppush for 1 with dependerprio 6
+   increasing boost to 6
+   propagating 8
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [10]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [11]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [12]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [13]
+
+******* starting deppush at node 14
+using stored boost 0
+propagating 2
+ incoming deppush for 10 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 7 with dependerprio 4
+  increasing boost to 4
+  propagating 6
+   incoming deppush for 4 with dependerprio 6
+   increasing boost to 6
+   propagating 8
+    incoming deppush for 1 with dependerprio 8
+    increasing boost to 8
+    propagating 10
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [14]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [15]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [16]
+
+******* starting deppush at node 17
+using stored boost 0
+propagating 2
+ incoming deppush for 14 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 10 with dependerprio 4
+  increasing boost to 4
+  propagating 6
+   incoming deppush for 7 with dependerprio 6
+   increasing boost to 6
+   propagating 8
+    incoming deppush for 4 with dependerprio 8
+    increasing boost to 8
+    propagating 10
+     incoming deppush for 1 with dependerprio 10
+     increasing boost to 10
+     propagating 12
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [17]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [18]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [19]
+
+******* starting deppush at node 20
+using stored boost 0
+propagating 2
+ incoming deppush for 17 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 14 with dependerprio 4
+  increasing boost to 4
+  propagating 6
+   incoming deppush for 10 with dependerprio 6
+   increasing boost to 6
+   propagating 8
+    incoming deppush for 7 with dependerprio 8
+    increasing boost to 8
+    propagating 10
+     incoming deppush for 4 with dependerprio 10
+     increasing boost to 10
+     propagating 12
+      incoming deppush for 1 with dependerprio 12
+      increasing boost to 12
+      propagating 14
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [20]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [21]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [22]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [23]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [24]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [25]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [26]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [27]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [28]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [29]
+
+******* starting deppush at node 30
+using stored boost 0
+propagating 2
+ incoming deppush for 10 with dependerprio 2
+ propagating 4
+  incoming deppush for 7 with dependerprio 4
+  propagating 6
+   incoming deppush for 4 with dependerprio 6
+   propagating 8
+    incoming deppush for 1 with dependerprio 8
+    propagating 10
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [30]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [31]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [32]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [33]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [34]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [35]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [36]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [37]
+
+******* starting deppush at node 38
+using stored boost 0
+propagating 2
+ incoming deppush for 4 with dependerprio 2
+ propagating 4
+  incoming deppush for 1 with dependerprio 4
+  propagating 6
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [38]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [39]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [40]
+
+******* starting deppush at node 41
+using stored boost 0
+propagating 2
+ incoming deppush for 38 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 4 with dependerprio 4
+  propagating 6
+   incoming deppush for 1 with dependerprio 6
+   propagating 8
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [41]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [42]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [43]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [44]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [45]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [46]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [47]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [48]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [49]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [50]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [51]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [52]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [53]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [54]
+
+******* starting deppush at node 55
+using stored boost 0
+propagating 2
+ incoming deppush for 10 with dependerprio 2
+ propagating 4
+  incoming deppush for 7 with dependerprio 4
+  propagating 6
+   incoming deppush for 4 with dependerprio 6
+   propagating 8
+    incoming deppush for 1 with dependerprio 8
+    propagating 10
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [55]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [56]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [57]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [58]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [59]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [60]
+
+******* starting deppush at node 61
+using stored boost 0
+propagating 2
+ incoming deppush for 55 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 10 with dependerprio 4
+  propagating 6
+   incoming deppush for 7 with dependerprio 6
+   propagating 8
+    incoming deppush for 4 with dependerprio 8
+    propagating 10
+     incoming deppush for 1 with dependerprio 10
+     propagating 12
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [61]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [62]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [63]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [64]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [65]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [66]
+
+******* starting deppush at node 67
+using stored boost 0
+propagating 2
+ incoming deppush for 55 with dependerprio 2
+ propagating 4
+  incoming deppush for 10 with dependerprio 4
+  propagating 6
+   incoming deppush for 7 with dependerprio 6
+   propagating 8
+    incoming deppush for 4 with dependerprio 8
+    propagating 10
+     incoming deppush for 1 with dependerprio 10
+     propagating 12
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [67]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [68]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [69]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [70]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [71]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [72]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [73]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [74]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [75]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [76]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [77]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [78]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [79]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [80]
+
+******* starting deppush at node 81
+using stored boost 0
+propagating 2
+ incoming deppush for 10 with dependerprio 2
+ propagating 4
+  incoming deppush for 7 with dependerprio 4
+  propagating 6
+   incoming deppush for 4 with dependerprio 6
+   propagating 8
+    incoming deppush for 1 with dependerprio 8
+    propagating 10
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [81]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [82]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [83]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [84]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [85]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [86]
+
+******* starting deppush at node 87
+using stored boost 0
+propagating 2
+ incoming deppush for 81 with dependerprio 2
+ increasing boost to 2
+ propagating 4
+  incoming deppush for 10 with dependerprio 4
+  propagating 6
+   incoming deppush for 7 with dependerprio 6
+   propagating 8
+    incoming deppush for 4 with dependerprio 8
+    propagating 10
+     incoming deppush for 1 with dependerprio 10
+     propagating 12
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [87]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [88]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [89]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [90]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [91]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [92]
+
+******* starting deppush at node 93
+using stored boost 0
+propagating 2
+ incoming deppush for 7 with dependerprio 2
+ propagating 4
+  incoming deppush for 4 with dependerprio 4
+  propagating 6
+   incoming deppush for 1 with dependerprio 6
+   propagating 8
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [93]
+[ZCOM_SRV/2]: All mustsync nodes in sync: activating normal node: [94]
+================================
+filling =========
+node: 1 prio 2561
+node: 2 prio 195
+node: 3 prio 195
+node: 4 prio 2145
+node: 5 prio 193
+node: 6 prio 192
+node: 7 prio 1728
+node: 8 prio 189
+node: 9 prio 189
+node: 10 prio 1316
+node: 11 prio 185
+node: 12 prio 184
+node: 13 prio 184
+node: 14 prio 920
+node: 15 prio 179
+node: 16 prio 179
+node: 17 prio 534
+node: 18 prio 173
+node: 19 prio 172
+node: 20 prio 172
+node: 21 prio 166
+node: 22 prio 165
+node: 23 prio 165
+node: 24 prio 165
+node: 25 prio 164
+node: 26 prio 164
+node: 27 prio 163
+node: 28 prio 163
+node: 29 prio 163
+node: 30 prio 162
+node: 31 prio 159
+node: 32 prio 158
+node: 33 prio 158
+node: 34 prio 158
+node: 35 prio 157
+node: 36 prio 157
+node: 37 prio 157
+node: 38 prio 468
+node: 39 prio 154
+node: 40 prio 154
+node: 41 prio 154
+node: 42 prio 150
+node: 43 prio 150
+node: 44 prio 150
+node: 45 prio 149
+node: 46 prio 149
+node: 47 prio 148
+node: 48 prio 148
+node: 49 prio 148
+node: 50 prio 147
+node: 51 prio 147
+node: 52 prio 147
+node: 53 prio 146
+node: 54 prio 146
+node: 55 prio 438
+node: 56 prio 142
+node: 57 prio 142
+node: 58 prio 141
+node: 59 prio 141
+node: 60 prio 141
+node: 61 prio 141
+node: 62 prio 136
+node: 63 prio 136
+node: 64 prio 135
+node: 65 prio 135
+node: 66 prio 135
+node: 67 prio 134
+node: 68 prio 130
+node: 69 prio 130
+node: 70 prio 129
+node: 71 prio 129
+node: 72 prio 129
+node: 73 prio 128
+node: 74 prio 128
+node: 75 prio 128
+node: 76 prio 127
+node: 77 prio 127
+node: 78 prio 127
+node: 79 prio 126
+node: 80 prio 126
+node: 81 prio 375
+node: 82 prio 122
+node: 83 prio 122
+node: 84 prio 121
+node: 85 prio 121
+node: 86 prio 121
+node: 87 prio 120
+node: 88 prio 116
+node: 89 prio 116
+node: 90 prio 115
+node: 91 prio 115
+node: 92 prio 115
+node: 93 prio 114
+node: 94 prio 0
+node: 95 prio 0
+sending node: 1
+sending node: 4
+sending node: 7
+sending node: 10
+sending node: 14
+sending node: 17
+================================
+filling =========
+node: 1 prio 12
+node: 2 prio 233
+node: 3 prio 233
+node: 4 prio 10
+node: 5 prio 231
+node: 6 prio 230
+node: 7 prio 8
+node: 8 prio 227
+node: 9 prio 227
+node: 10 prio 6
+node: 11 prio 223
+node: 12 prio 222
+node: 13 prio 222
+node: 14 prio 4
+node: 15 prio 217
+node: 16 prio 217
+node: 17 prio 2
+node: 18 prio 211
+node: 19 prio 210
+node: 20 prio 210
+node: 21 prio 204
+node: 22 prio 203
+node: 23 prio 203
+node: 24 prio 203
+node: 25 prio 202
+node: 26 prio 202
+node: 27 prio 201
+node: 28 prio 201
+node: 29 prio 201
+node: 30 prio 200
+node: 31 prio 197
+node: 32 prio 196
+node: 33 prio 196
+node: 34 prio 196
+node: 35 prio 195
+node: 36 prio 195
+node: 37 prio 195
+node: 38 prio 582
+node: 39 prio 192
+node: 40 prio 192
+node: 41 prio 192
+node: 42 prio 188
+node: 43 prio 188
+node: 44 prio 188
+node: 45 prio 187
+node: 46 prio 187
+node: 47 prio 186
+node: 48 prio 186
+node: 49 prio 186
+node: 50 prio 185
+node: 51 prio 185
+node: 52 prio 185
+node: 53 prio 184
+node: 54 prio 184
+node: 55 prio 552
+node: 56 prio 180
+node: 57 prio 180
+node: 58 prio 179
+node: 59 prio 179
+node: 60 prio 179
+node: 61 prio 179
+node: 62 prio 174
+node: 63 prio 174
+node: 64 prio 173
+node: 65 prio 173
+node: 66 prio 173
+node: 67 prio 172
+node: 68 prio 168
+node: 69 prio 168
+node: 70 prio 167
+node: 71 prio 167
+node: 72 prio 167
+node: 73 prio 166
+node: 74 prio 166
+node: 75 prio 166
+node: 76 prio 165
+node: 77 prio 165
+node: 78 prio 165
+node: 79 prio 164
+node: 80 prio 164
+node: 81 prio 489
+node: 82 prio 160
+node: 83 prio 160
+node: 84 prio 159
+node: 85 prio 159
+node: 86 prio 159
+node: 87 prio 158
+node: 88 prio 154
+node: 89 prio 154
+node: 90 prio 153
+node: 91 prio 153
+node: 92 prio 153
+node: 93 prio 152
+node: 94 prio 0
+node: 95 prio 0
+sending node: 38
+node waiting for dependency - skipping: 38
+sending node: 55
+node waiting for dependency - skipping: 55
+sending node: 81
+node waiting for dependency - skipping: 81
+sending node: 3
+sending node: 2
+sending node: 5
+sending node: 6
+sending node: 9
+sending node: 8
+================================
+================================
+================================
+================================
+================================
+================================
+================================
+[ZCOM_SRV]: new outgoing bandwidth for 1: 200 bpp / 10 pps
+[ZCOM_SRV]: new outgoing bandwidth for 2: 200 bpp / 10 pps
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 4943
+node: 12 prio 4942
+node: 13 prio 4942
+node: 14 prio 0
+node: 15 prio 4937
+node: 16 prio 4937
+node: 17 prio 0
+node: 18 prio 4931
+node: 19 prio 4930
+node: 20 prio 4930
+node: 21 prio 4924
+node: 22 prio 4923
+node: 23 prio 4923
+node: 24 prio 4923
+node: 25 prio 4922
+node: 26 prio 4922
+node: 27 prio 4921
+node: 28 prio 4921
+node: 29 prio 4921
+node: 30 prio 4920
+node: 31 prio 4917
+node: 32 prio 4916
+node: 33 prio 4916
+node: 34 prio 4916
+node: 35 prio 4915
+node: 36 prio 4915
+node: 37 prio 4915
+node: 38 prio 14742
+node: 39 prio 4912
+node: 40 prio 4912
+node: 41 prio 4912
+node: 42 prio 4908
+node: 43 prio 4908
+node: 44 prio 4908
+node: 45 prio 4907
+node: 46 prio 4907
+node: 47 prio 4906
+node: 48 prio 4906
+node: 49 prio 4906
+node: 50 prio 4905
+node: 51 prio 4905
+node: 52 prio 4905
+node: 53 prio 4904
+node: 54 prio 4904
+node: 55 prio 14712
+node: 56 prio 4900
+node: 57 prio 4900
+node: 58 prio 4899
+node: 59 prio 4899
+node: 60 prio 4899
+node: 61 prio 4899
+node: 62 prio 4894
+node: 63 prio 4894
+node: 64 prio 4893
+node: 65 prio 4893
+node: 66 prio 4893
+node: 67 prio 4892
+node: 68 prio 4888
+node: 69 prio 4888
+node: 70 prio 4887
+node: 71 prio 4887
+node: 72 prio 4887
+node: 73 prio 4886
+node: 74 prio 4886
+node: 75 prio 4886
+node: 76 prio 4885
+node: 77 prio 4885
+node: 78 prio 4885
+node: 79 prio 4884
+node: 80 prio 4884
+node: 81 prio 14649
+node: 82 prio 4880
+node: 83 prio 4880
+node: 84 prio 4879
+node: 85 prio 4879
+node: 86 prio 4879
+node: 87 prio 4878
+node: 88 prio 4874
+node: 89 prio 4874
+node: 90 prio 4873
+node: 91 prio 4873
+node: 92 prio 4873
+node: 93 prio 4872
+node: 94 prio 0
+node: 95 prio 0
+sending node: 38
+sending node: 55
+sending node: 81
+sending node: 11
+sending node: 13
+sending node: 12
+sending node: 15
+sending node: 16
+sending node: 18
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 5040
+node: 20 prio 5040
+node: 21 prio 5034
+node: 22 prio 5033
+node: 23 prio 5033
+node: 24 prio 5033
+node: 25 prio 5032
+node: 26 prio 5032
+node: 27 prio 5031
+node: 28 prio 5031
+node: 29 prio 5031
+node: 30 prio 5030
+node: 31 prio 5027
+node: 32 prio 5026
+node: 33 prio 5026
+node: 34 prio 5026
+node: 35 prio 5025
+node: 36 prio 5025
+node: 37 prio 5025
+node: 38 prio 0
+node: 39 prio 5022
+node: 40 prio 5022
+node: 41 prio 5022
+node: 42 prio 5018
+node: 43 prio 5018
+node: 44 prio 5018
+node: 45 prio 5017
+node: 46 prio 5017
+node: 47 prio 5016
+node: 48 prio 5016
+node: 49 prio 5016
+node: 50 prio 5015
+node: 51 prio 5015
+node: 52 prio 5015
+node: 53 prio 5014
+node: 54 prio 5014
+node: 55 prio 0
+node: 56 prio 5010
+node: 57 prio 5010
+node: 58 prio 5009
+node: 59 prio 5009
+node: 60 prio 5009
+node: 61 prio 5009
+node: 62 prio 5004
+node: 63 prio 5004
+node: 64 prio 5003
+node: 65 prio 5003
+node: 66 prio 5003
+node: 67 prio 5002
+node: 68 prio 4998
+node: 69 prio 4998
+node: 70 prio 4997
+node: 71 prio 4997
+node: 72 prio 4997
+node: 73 prio 4996
+node: 74 prio 4996
+node: 75 prio 4996
+node: 76 prio 4995
+node: 77 prio 4995
+node: 78 prio 4995
+node: 79 prio 4994
+node: 80 prio 4994
+node: 81 prio 0
+node: 82 prio 4990
+node: 83 prio 4990
+node: 84 prio 4989
+node: 85 prio 4989
+node: 86 prio 4989
+node: 87 prio 4988
+node: 88 prio 4984
+node: 89 prio 4984
+node: 90 prio 4983
+node: 91 prio 4983
+node: 92 prio 4983
+node: 93 prio 4982
+node: 94 prio 0
+node: 95 prio 0
+sending node: 20
+sending node: 19
+sending node: 21
+sending node: 23
+sending node: 24
+sending node: 22
+sending node: 26
+sending node: 25
+sending node: 27
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 5131
+node: 29 prio 5131
+node: 30 prio 5130
+node: 31 prio 5127
+node: 32 prio 5126
+node: 33 prio 5126
+node: 34 prio 5126
+node: 35 prio 5125
+node: 36 prio 5125
+node: 37 prio 5125
+node: 38 prio 0
+node: 39 prio 5122
+node: 40 prio 5122
+node: 41 prio 5122
+node: 42 prio 5118
+node: 43 prio 5118
+node: 44 prio 5118
+node: 45 prio 5117
+node: 46 prio 5117
+node: 47 prio 5116
+node: 48 prio 5116
+node: 49 prio 5116
+node: 50 prio 5115
+node: 51 prio 5115
+node: 52 prio 5115
+node: 53 prio 5114
+node: 54 prio 5114
+node: 55 prio 0
+node: 56 prio 5110
+node: 57 prio 5110
+node: 58 prio 5109
+node: 59 prio 5109
+node: 60 prio 5109
+node: 61 prio 5109
+node: 62 prio 5104
+node: 63 prio 5104
+node: 64 prio 5103
+node: 65 prio 5103
+node: 66 prio 5103
+node: 67 prio 5102
+node: 68 prio 5098
+node: 69 prio 5098
+node: 70 prio 5097
+node: 71 prio 5097
+node: 72 prio 5097
+node: 73 prio 5096
+node: 74 prio 5096
+node: 75 prio 5096
+node: 76 prio 5095
+node: 77 prio 5095
+node: 78 prio 5095
+node: 79 prio 5094
+node: 80 prio 5094
+node: 81 prio 0
+node: 82 prio 5090
+node: 83 prio 5090
+node: 84 prio 5089
+node: 85 prio 5089
+node: 86 prio 5089
+node: 87 prio 5088
+node: 88 prio 5084
+node: 89 prio 5084
+node: 90 prio 5083
+node: 91 prio 5083
+node: 92 prio 5083
+node: 93 prio 5082
+node: 94 prio 0
+node: 95 prio 0
+sending node: 29
+sending node: 28
+sending node: 30
+sending node: 31
+sending node: 32
+sending node: 33
+sending node: 34
+sending node: 36
+sending node: 37
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 5224
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 5221
+node: 40 prio 5221
+node: 41 prio 5221
+node: 42 prio 5217
+node: 43 prio 5217
+node: 44 prio 5217
+node: 45 prio 5216
+node: 46 prio 5216
+node: 47 prio 5215
+node: 48 prio 5215
+node: 49 prio 5215
+node: 50 prio 5214
+node: 51 prio 5214
+node: 52 prio 5214
+node: 53 prio 5213
+node: 54 prio 5213
+node: 55 prio 0
+node: 56 prio 5209
+node: 57 prio 5209
+node: 58 prio 5208
+node: 59 prio 5208
+node: 60 prio 5208
+node: 61 prio 5208
+node: 62 prio 5203
+node: 63 prio 5203
+node: 64 prio 5202
+node: 65 prio 5202
+node: 66 prio 5202
+node: 67 prio 5201
+node: 68 prio 5197
+node: 69 prio 5197
+node: 70 prio 5196
+node: 71 prio 5196
+node: 72 prio 5196
+node: 73 prio 5195
+node: 74 prio 5195
+node: 75 prio 5195
+node: 76 prio 5194
+node: 77 prio 5194
+node: 78 prio 5194
+node: 79 prio 5193
+node: 80 prio 5193
+node: 81 prio 0
+node: 82 prio 5189
+node: 83 prio 5189
+node: 84 prio 5188
+node: 85 prio 5188
+node: 86 prio 5188
+node: 87 prio 5187
+node: 88 prio 5183
+node: 89 prio 5183
+node: 90 prio 5182
+node: 91 prio 5182
+node: 92 prio 5182
+node: 93 prio 5181
+node: 94 prio 0
+node: 95 prio 0
+sending node: 35
+sending node: 40
+sending node: 41
+sending node: 39
+sending node: 42
+sending node: 43
+sending node: 44
+sending node: 46
+sending node: 45
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 5308
+node: 48 prio 5308
+node: 49 prio 5308
+node: 50 prio 5307
+node: 51 prio 5307
+node: 52 prio 5307
+node: 53 prio 5306
+node: 54 prio 5306
+node: 55 prio 0
+node: 56 prio 5302
+node: 57 prio 5302
+node: 58 prio 5301
+node: 59 prio 5301
+node: 60 prio 5301
+node: 61 prio 5301
+node: 62 prio 5296
+node: 63 prio 5296
+node: 64 prio 5295
+node: 65 prio 5295
+node: 66 prio 5295
+node: 67 prio 5294
+node: 68 prio 5290
+node: 69 prio 5290
+node: 70 prio 5289
+node: 71 prio 5289
+node: 72 prio 5289
+node: 73 prio 5288
+node: 74 prio 5288
+node: 75 prio 5288
+node: 76 prio 5287
+node: 77 prio 5287
+node: 78 prio 5287
+node: 79 prio 5286
+node: 80 prio 5286
+node: 81 prio 0
+node: 82 prio 5282
+node: 83 prio 5282
+node: 84 prio 5281
+node: 85 prio 5281
+node: 86 prio 5281
+node: 87 prio 5280
+node: 88 prio 5276
+node: 89 prio 5276
+node: 90 prio 5275
+node: 91 prio 5275
+node: 92 prio 5275
+node: 93 prio 5274
+node: 94 prio 0
+node: 95 prio 0
+sending node: 48
+sending node: 49
+sending node: 47
+sending node: 50
+sending node: 51
+sending node: 52
+sending node: 54
+sending node: 53
+sending node: 57
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 5400
+node: 57 prio 0
+node: 58 prio 5399
+node: 59 prio 5399
+node: 60 prio 5399
+node: 61 prio 5399
+node: 62 prio 5394
+node: 63 prio 5394
+node: 64 prio 5393
+node: 65 prio 5393
+node: 66 prio 5393
+node: 67 prio 5392
+node: 68 prio 5388
+node: 69 prio 5388
+node: 70 prio 5387
+node: 71 prio 5387
+node: 72 prio 5387
+node: 73 prio 5386
+node: 74 prio 5386
+node: 75 prio 5386
+node: 76 prio 5385
+node: 77 prio 5385
+node: 78 prio 5385
+node: 79 prio 5384
+node: 80 prio 5384
+node: 81 prio 0
+node: 82 prio 5380
+node: 83 prio 5380
+node: 84 prio 5379
+node: 85 prio 5379
+node: 86 prio 5379
+node: 87 prio 5378
+node: 88 prio 5374
+node: 89 prio 5374
+node: 90 prio 5373
+node: 91 prio 5373
+node: 92 prio 5373
+node: 93 prio 5372
+node: 94 prio 0
+node: 95 prio 0
+sending node: 56
+sending node: 59
+sending node: 60
+sending node: 61
+sending node: 58
+sending node: 63
+sending node: 62
+sending node: 64
+sending node: 65
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 5502
+node: 67 prio 5501
+node: 68 prio 5497
+node: 69 prio 5497
+node: 70 prio 5496
+node: 71 prio 5496
+node: 72 prio 5496
+node: 73 prio 5495
+node: 74 prio 5495
+node: 75 prio 5495
+node: 76 prio 5494
+node: 77 prio 5494
+node: 78 prio 5494
+node: 79 prio 5493
+node: 80 prio 5493
+node: 81 prio 0
+node: 82 prio 5489
+node: 83 prio 5489
+node: 84 prio 5488
+node: 85 prio 5488
+node: 86 prio 5488
+node: 87 prio 5487
+node: 88 prio 5483
+node: 89 prio 5483
+node: 90 prio 5482
+node: 91 prio 5482
+node: 92 prio 5482
+node: 93 prio 5481
+node: 94 prio 0
+node: 95 prio 0
+sending node: 66
+sending node: 67
+sending node: 69
+sending node: 68
+sending node: 70
+sending node: 71
+sending node: 72
+sending node: 74
+sending node: 75
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 5593
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 5592
+node: 77 prio 5592
+node: 78 prio 5592
+node: 79 prio 5591
+node: 80 prio 5591
+node: 81 prio 0
+node: 82 prio 5587
+node: 83 prio 5587
+node: 84 prio 5586
+node: 85 prio 5586
+node: 86 prio 5586
+node: 87 prio 5585
+node: 88 prio 5581
+node: 89 prio 5581
+node: 90 prio 5580
+node: 91 prio 5580
+node: 92 prio 5580
+node: 93 prio 5579
+node: 94 prio 0
+node: 95 prio 0
+sending node: 73
+sending node: 77
+sending node: 78
+sending node: 76
+sending node: 80
+sending node: 79
+sending node: 83
+sending node: 82
+sending node: 84
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 5685
+node: 86 prio 5685
+node: 87 prio 5684
+node: 88 prio 5680
+node: 89 prio 5680
+node: 90 prio 5679
+node: 91 prio 5679
+node: 92 prio 5679
+node: 93 prio 5678
+node: 94 prio 0
+node: 95 prio 0
+sending node: 86
+sending node: 85
+sending node: 87
+sending node: 88
+sending node: 89
+sending node: 91
+sending node: 92
+sending node: 90
+sending node: 93
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0
+================================
+filling =========
+node: 1 prio 0
+node: 2 prio 0
+node: 3 prio 0
+node: 4 prio 0
+node: 5 prio 0
+node: 6 prio 0
+node: 7 prio 0
+node: 8 prio 0
+node: 9 prio 0
+node: 10 prio 0
+node: 11 prio 0
+node: 12 prio 0
+node: 13 prio 0
+node: 14 prio 0
+node: 15 prio 0
+node: 16 prio 0
+node: 17 prio 0
+node: 18 prio 0
+node: 19 prio 0
+node: 20 prio 0
+node: 21 prio 0
+node: 22 prio 0
+node: 23 prio 0
+node: 24 prio 0
+node: 25 prio 0
+node: 26 prio 0
+node: 27 prio 0
+node: 28 prio 0
+node: 29 prio 0
+node: 30 prio 0
+node: 31 prio 0
+node: 32 prio 0
+node: 33 prio 0
+node: 34 prio 0
+node: 35 prio 0
+node: 36 prio 0
+node: 37 prio 0
+node: 38 prio 0
+node: 39 prio 0
+node: 40 prio 0
+node: 41 prio 0
+node: 42 prio 0
+node: 43 prio 0
+node: 44 prio 0
+node: 45 prio 0
+node: 46 prio 0
+node: 47 prio 0
+node: 48 prio 0
+node: 49 prio 0
+node: 50 prio 0
+node: 51 prio 0
+node: 52 prio 0
+node: 53 prio 0
+node: 54 prio 0
+node: 55 prio 0
+node: 56 prio 0
+node: 57 prio 0
+node: 58 prio 0
+node: 59 prio 0
+node: 60 prio 0
+node: 61 prio 0
+node: 62 prio 0
+node: 63 prio 0
+node: 64 prio 0
+node: 65 prio 0
+node: 66 prio 0
+node: 67 prio 0
+node: 68 prio 0
+node: 69 prio 0
+node: 70 prio 0
+node: 71 prio 0
+node: 72 prio 0
+node: 73 prio 0
+node: 74 prio 0
+node: 75 prio 0
+node: 76 prio 0
+node: 77 prio 0
+node: 78 prio 0
+node: 79 prio 0
+node: 80 prio 0
+node: 81 prio 0
+node: 82 prio 0
+node: 83 prio 0
+node: 84 prio 0
+node: 85 prio 0
+node: 86 prio 0
+node: 87 prio 0
+node: 88 prio 0
+node: 89 prio 0
+node: 90 prio 0
+node: 91 prio 0
+node: 92 prio 0
+node: 93 prio 0
+node: 94 prio 0
+node: 95 prio 0

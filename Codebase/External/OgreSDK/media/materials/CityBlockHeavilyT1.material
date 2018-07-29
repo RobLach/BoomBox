@@ -1,0 +1,20 @@
+material TextureMaterial/TEXFACE/CityBlockHeavilyDamageT1.tga
+{
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			ambient 0.500000 0.500000 0.500000 1.000000
+			diffuse 0.800000 0.800000 0.800000 1.000000
+			emissive 0.000000 0.000000 0.000000 1.000000
+			lighting off
+			texture_unit
+			{
+				texture CityBlockHeavilyDamageT1.tga
+				colour_op modulate
+			}
+		}
+
+	}
+}

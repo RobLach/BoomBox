@@ -1,0 +1,11 @@
+ex04_object_deletion
+--------------------
+
+Extends ex03. This adds an object handler that keeps track of all created objects.
+The server randomly creates and deletes object now, while clients react to 
+eZCom_EventRemoved events and delete the objects accordingly again.
+
+Manual: "Layer 3: Object Replication->Handling Node Events" & 
+        "Layer 3: Object Replication->Deleting The Server Nodes"
+        
+

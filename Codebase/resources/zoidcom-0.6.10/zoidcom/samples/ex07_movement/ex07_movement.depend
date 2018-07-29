@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1167849211 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\samples\ex07_movement\common.cpp
+	<string.h>
+	<stdio.h>
+	<stdarg.h>
+	<zoidcom.h>
+	"common.h"
+
+1167854899 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom.h
+	"zoidcom_prereq.h"
+	"zoidcom_bitstream.h"
+	"zoidcom_address.h"
+	"zoidcom_control.h"
+	"zoidcom_node.h"
+	"zoidcom_node_interceptors.h"
+	"zoidcom_conngroup.h"
+	"zoidcom_replicator.h"
+	"zoidcom_replicator_basic.h"
+	"zoidcom_replicator_advanced.h"
+	"zoidcom_replicator_numeric.h"
+	"zoidcom_replicator_bool.h"
+	"zoidcom_replicator_memblock.h"
+	"zoidcom_replicator_string.h"
+	"zoidcom_replicator_interpolate.h"
+	"zoidcom_replicator_movement.h"
+
+1167854899 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_prereq.h
+	<cassert>
+	<cstddef>
+	<cstring>
+
+1167854875 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_bitstream.h
+	"zoidcom.h"
+
+1167854875 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_address.h
+	"zoidcom.h"
+
+1167854875 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_control.h
+	"zoidcom.h"
+
+1175089728 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_node.h
+	"zoidcom.h"
+
+1167854875 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_node_interceptors.h
+	"zoidcom.h"
+
+1167854875 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_conngroup.h
+	"zoidcom.h"
+
+1167854875 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator.h
+	"zoidcom.h"
+
+1167854875 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_basic.h
+	"zoidcom.h"
+
+1167854899 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_advanced.h
+	"zoidcom.h"
+
+1167854900 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_numeric.h
+	"zoidcom.h"
+	"zoidcom_replicator_value.h"
+	"zoidcom_typehelper.h"
+
+1167854876 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_value.h
+	"zoidcom.h"
+
+1167854876 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_typehelper.h
+
+1167854875 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_bool.h
+	"zoidcom.h"
+
+1167854875 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_memblock.h
+	"zoidcom.h"
+
+1167854876 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_string.h
+	"zoidcom.h"
+
+1167854875 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_interpolate.h
+	"zoidcom.h"
+	"zoidcom_replicator_value.h"
+
+1167854899 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\include\zoidcom_replicator_movement.h
+	"zoidcom.h"
+	"zoidcom_typehelper.h"
+
+1166576386 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\samples\ex07_movement\common.h
+	<allegro.h>
+
+1138810892 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\samples\ex07_movement\demorec.cpp
+	"demorec.h"
+
+1138810892 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\samples\ex07_movement\demorec.h
+	<zoidcom.h>
+	"nodeobj.h"
+	"common.h"
+
+1167854701 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\samples\ex07_movement\nodeobj.h
+	<allegro.h>
+	<zoidcom.h>
+	"common.h"
+
+1167850135 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\samples\ex07_movement\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	"common.h"
+	<zoidcom.h>
+	"nodeobj.h"
+	"client.h"
+	"server.h"
+	"demorec.h"
+
+1166061746 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\samples\ex07_movement\client.h
+	<zoidcom.h>
+	"nodeobj.h"
+	"demorec.h"
+
+1166061746 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\samples\ex07_movement\server.h
+	<zoidcom.h>
+	<string.h>
+	"nodeobj.h"
+	"demorec.h"
+
+1175089792 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\samples\ex07_movement\nodeobj.cpp
+	"nodeobj.h"
+
+1167790972 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\samples\ex07_movement\server.cpp
+	"common.h"
+	"server.h"
+
+1167849245 d:\e\projects\project\zoidcom-0.6-branch\zoidcom\samples\ex07_movement\client.cpp
+	"common.h"
+	"client.h"
+	<string.h>
+	<allegro.h>
+

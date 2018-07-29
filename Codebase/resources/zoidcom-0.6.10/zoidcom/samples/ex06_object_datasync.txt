@@ -1,0 +1,6 @@
+ex06_object_datasync
+--------------------
+
+Shows how to synchronize object variables with replicators.
+
+Manual: "Layer 4: Object Synchronization"

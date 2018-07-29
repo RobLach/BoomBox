@@ -1,0 +1,6 @@
+ex08_file_transfer
+------------------
+
+Demonstrates file transfer.
+
+Manual: "Advanced Topics -> File Transfer"

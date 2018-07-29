@@ -1,0 +1,12 @@
+ex07_movement
+-------------
+
+Demonstrates the usage of the movement and player input replicator. The interesting stuff is in
+nodeobj.cpp.
+
+This program shows strange behaviour when compiled with vc.net 2003 (and maybe earlier versions)
+and full optimization enabled.
+
+Needs Allegro to build and run.
+
+Manual: "Advanced Topics -> Replicating Player Movement"

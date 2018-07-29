@@ -1,0 +1,11 @@
+ex03_object_replication
+-----------------------
+
+This shows how object replication works. The server creates objects randomly, all clients will
+follow suit. Objects get never deleted.
+
+Manual: "Layer 3: Object Replication->Introduction" &
+        "Layer 3: Object Replication->Classes and Class IDs" & 
+        "Layer 3: Object Replication->Adding The Nodes" &
+        "Layer 3: Object Replication->The Announcement"
+        

@@ -1,0 +1,36 @@
+This directory is the the temporary home for files associated withe audio for BOOMbox. 
+
+To use the sound you will need a Max runtime installed on your machine. The runtimes are available in the max_runtimes folder.
+
+Once you have installed the runtime on your machine, open the file named "working.maxpat" inside of the "working" folder to take advantage of the latest and greatest audio functionality.
+A list of instruments and the patterns created for them can be found in the document obscurely titled "instrument_list.txt".
+
+2/24:
+	-receives OSC messages and parses them into useful chunks
+
+3/1:
+	-added "mostly" complete skeleton of entire engine
+	-OSC messages now actually do things
+	-other avatars are created and registered upon receipt of first OSC message with their unique id attached (currently a periodic pulse of a saw wave of a static random frequency is used to signify an avatar)
+	-subsequent messages will:
+		- affect the pulse's placement in a stereo field
+		- the volume of the pulse is relative to other avatar's distance to "myavatar"
+	- added a tester patch for sending of test messages
+
+3/2:
+	- added pattern reader/player, reads from a matrix
+	- added a pattern editor, has some issues but suitable to get test patterns in
+	- created three instruments, a saw bass, an 808 kit and a random sound effect set, need to come up with a more elegant way of handling instruments in general...
+	- all the mixing and such is working according to specification thus far. Most stuff could use some refinement
+	- too much polyphony will be an issue I am guessing, might cause crash
+	-lots of data coming in over udp may still be an issue, not sure
+	- because of all the dynamic creation, Max is sometimes getting fed up and just stopping if I have reset my patch too many times without restarting Max
+
+4/17:
+	- many things have been tweaked/fixed/optimized
+	- instruments have been restructured/redesigned/optimized
+	- many new patterns and many new instruments now
+	KNOWN ISSUES:
+	- Max is spewing an error upon initialization of an instrument, and/or when that instrument first receives a "patch change" message. Yet the error does not (seem to) affect performance in any way. Attempts at fixing have successfully altered the "alleged" error's message, but have ultimately proved ineffectual in eliminating it completely. No need to workaround.
+	- When closing the "working.maxpat" document, apparently not everything gets cleaned up memory-wise. If the "working.maxpat" document is reopened without restarting the runtime, Max will spew error messages about one of the jit objects (either the matrix, or the jit.spill) being invalid. Max will eventually crash after this error starts appearing. The workaround is to relaunch the runtime before reopening the "working.maxpat" document.
+	- Lots of data coming in over udp still causes Max to hang and crash, not sure why. The workaround has been to throttle the frequency of messages sent to Max from the client.

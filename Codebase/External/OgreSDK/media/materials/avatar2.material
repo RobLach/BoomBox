@@ -1,0 +1,17 @@
+material Material/SOLID/TEX/avatar2.tga
+{
+	receive_shadows on
+	technique
+	{
+		pass
+		{
+			diffuse 0.800000 0.800000 0.800000
+			specular 0.500000 0.500000 0.500000 12.500000
+			lighting off
+			texture_unit
+			{
+				texture avatar2.tga
+			}
+		}
+	}
+}
